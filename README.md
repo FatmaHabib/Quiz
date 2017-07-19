@@ -15,7 +15,8 @@ result 2.15.5
 5)We get the tools we depend upon via npm, the Node package manager.
 6)We get the Angular code via bower, a client-side code package manager download bower.
 7)run npm install
-6)run bower install (sometimes it installs with npm install)
+8)run "npm install -g bower"
+9) run "bower install bootstrap"
 
 
 for any help in setting up the inviroment this video what i used for setup https://www.youtube.com/watch?v=q4SM4hN8hR8&index=2&list=PLwIXtQbHkSXHhFixjw1p4k0FFUglrD8M7
